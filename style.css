@@ -1,0 +1,20 @@
+p {
+  font-size: 24px;
+  font-family: 'Courier New', Courier, monospace;
+}
+img {
+  width: 500px;
+}
+
+.block {
+  display: block;
+}
+
+input {
+  padding: 20px;
+}
+
+label {
+  font-size: 30px;
+  color: #a81ca8;
+}
